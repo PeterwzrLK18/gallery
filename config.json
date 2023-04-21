@@ -10,6 +10,26 @@
       "placeholder_path": "./photos/INFO/Cellphone fix.placeholder.jpg"
     }
   ],
+  "Music Interpretation": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "path": "./photos/Music Interpretation/Main153.png",
+      "compressed_path": "./photos/Music Interpretation/Main153.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Music Interpretation/Main153.placeholder.png"
+    }
+  ],
+  "Six Word": [
+    {
+      "width": 1920,
+      "height": 1080,
+      "path": "./photos/Six Word/Six Words0261.png",
+      "compressed_path": "./photos/Six Word/Six Words0261.min.png",
+      "compressed": false,
+      "placeholder_path": "./photos/Six Word/Six Words0261.placeholder.png"
+    }
+  ],
   "SONDER": [
     {
       "width": 2048,
