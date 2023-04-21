@@ -8,5 +8,55 @@
       "compressed": false,
       "placeholder_path": "./photos/INFO/Cellphone fix.placeholder.jpg"
     }
+  ],
+  "SONDER": [
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/SONDER/Maga.jpg",
+      "compressed_path": "./photos/SONDER/Maga.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/SONDER/Maga.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/SONDER/Maga2.jpg",
+      "compressed_path": "./photos/SONDER/Maga2.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/SONDER/Maga2.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/SONDER/Maga3.jpg",
+      "compressed_path": "./photos/SONDER/Maga3.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/SONDER/Maga3.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/SONDER/Maga4.jpg",
+      "compressed_path": "./photos/SONDER/Maga4.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/SONDER/Maga4.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/SONDER/Maga5.jpg",
+      "compressed_path": "./photos/SONDER/Maga5.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/SONDER/Maga5.placeholder.jpg"
+    },
+    {
+      "width": 2048,
+      "height": 1536,
+      "path": "./photos/SONDER/Maga6.jpg",
+      "compressed_path": "./photos/SONDER/Maga6.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/SONDER/Maga6.placeholder.jpg"
+    }
   ]
 }
